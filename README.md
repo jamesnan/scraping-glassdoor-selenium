@@ -1,6 +1,6 @@
 # Scraping Glassdoor.ca
 
-Web scraping job listing  of top Canada cities  from "Glassdoor.ca" with Python and Selenium.Cancel changes
+Web scraping job listing  of top Canada cities  from "Glassdoor.ca" with Python and Selenium.
 
 * By using Selenium, we can search by job title and city to get the WebElement of job listing page for each city, then go through each sub page and job card to retrieve job information. 
 * With each job, I got the following:  Job title,Salary Estimation, Job Description, Rating, Company, Location, Size, Founded Date, Type of Ownership, Industry, Sector, Revenue, Website
